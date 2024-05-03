@@ -35,6 +35,42 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Cake",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Rice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Rice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Rice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Beans",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Butter",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 12
     }
   ]
 }
